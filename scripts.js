@@ -1,7 +1,7 @@
 
 
-let btn = document.getElementById("btn").addEventListener("click", gerar);
 
+let btn = document.getElementById("btn").addEventListener("click", gerar);
 
 function gerar() {
     document.getElementById("titulo").innerText = "Mousse de Limão";
@@ -9,5 +9,4 @@ function gerar() {
     document.getElementById("img").src = "./imgs/limao.jpg";
     document.getElementById("video").innerHTML = "<object width='425' height='340' data='https://www.youtube.com/embed/2DBExscWCxo'></object>";
     document.getElementById("ul").innerHTML = "<li>1 lata ou caixa de leite condensado</li> <li>1 caixa de creme de leite</li> <li>60 ml de suco de limão</li> <li>Raspas de 1 limão</li>";
-
 }
