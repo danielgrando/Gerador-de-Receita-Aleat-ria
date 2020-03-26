@@ -1,0 +1,1 @@
+# Gerador-de-Receita-Aleat-ria
