@@ -1,1 +1,1 @@
-# Gerador-de-Receita-Aleat-ria
+# Gerador de Receita Aleatoria
